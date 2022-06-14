@@ -1,4 +1,4 @@
-# HoleDetection
+# HoleDetection 
 HoleDetection, a program for detecting holes and computing their boundaries from the outer boundary detected Delaunay triangulation of a planar point set.
 Copyright (C) 2017 Subhasree Methirumangalath, Shyam Sundar Kannan, Amal Dev Parakkat, and Ramanathan Muthuganapathy, Advanced Geometric Computing Lab, Department of Engineering Design, IIT Madras, Chennai, India.
 
@@ -13,7 +13,8 @@ the Free Software Foundation, either version 3 of the License, or
 
 DESCRIPTION:
 
-HoleDetection is a program for computing the hole boundaries of an outer boundary reconstructed Delaunay Triangulation using the hole detection algorithm proposed in "Hole Detection of a Planar Point Set: An Empty Disk Approach" by Subhasree Methirumangalath, Shyam Sundar Kannan, Amal Dev Parakkat, and Ramanathan Muthuganapathy to appear at the Shape Modeling International (SMI-2017), with the outer boundary reconstructed using a Delaunay Triangulation method described in "A unified approach towards reconstruction of a planar point set" by Subhasree Methirumangalath, Amal Dev Parakkat and Ramanathan Muthuganapathy.
+HoleDetection is a program for computing the hole boundaries of an outer boundary reconstructed Delaunay Triangulation using the hole detection algorithm proposed in "Hole Detection of a Planar Point Set: An Empty Disk Approach" by Subhasree Methirumangalath, Shyam Sundar Kannan, Amal Dev Parakkat, and Ramanathan Muthuganapathy presented at the Shape Modeling International (SMI-2017) and accepted in Computers & Graphics
+(Volume 66, August 2017, Pages 124-134), with the outer boundary reconstructed using a Delaunay Triangulation method described in "A unified approach towards reconstruction of a planar point set" by Subhasree Methirumangalath, Amal Dev Parakkat and Ramanathan Muthuganapathy, presentd in SMI2015 and accepted in Computers & Graphics (Volume 51, October 2015, Pages 90-97). 
 
 --------------------------------------------------------------------------------
 
