@@ -2,8 +2,6 @@
 HoleDetection, a program for detecting holes and computing their boundaries from the outer boundary detected Delaunay triangulation of a planar point set.
 Copyright (C) 2017 Subhasree Methirumangalath, Shyam Sundar Kannan, Amal Dev Parakkat, and Ramanathan Muthuganapathy, Advanced Geometric Computing Lab, Department of Engineering Design, IIT Madras, Chennai, India.
 
-For comments or questions, please contact Subhasree Methirumangalath at subhasree.rajiv@gmail.com or Ramanathan Muthuganapathy at mraman@iitm.ac.in.
-
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
